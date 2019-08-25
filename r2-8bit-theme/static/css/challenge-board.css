@@ -1,0 +1,62 @@
+.chal-desc {
+  padding-left: 30px;
+  padding-right: 30px;
+  font-size: 14px;
+}
+
+.chal-desc img {
+  max-width: 100%;
+  height: auto;
+}
+
+.modal-content {
+  border-radius: 0px;
+  max-width: 1000px;
+  padding: 1em;
+  margin: 0 auto;
+  border: 1px solid rgb(1, 247, 31);
+  background-color: #000000;
+}
+
+.btn-info {
+  background-color: #5b7290 !important;
+}
+
+.badge-info {
+  background-color: #5b7290 !important;
+}
+
+.challenge-button {
+  color: #ffffff;
+  text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.25);
+  background-color: #FFFFFF;
+  *background-color: #FFFFFF;
+  background-image: -moz-linear-gradient(top, #000000, #3a3a3a);
+  background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#000000), to(#3a3a3a));
+  background-image: -webkit-linear-gradient(top, #000000, #3a3a3a);
+  background-image: -o-linear-gradient(top, #000000, #3a3a3a);
+  background-image: linear-gradient(to bottom, #000000, #3a3a3a);
+  background-repeat: repeat-x;
+  border-color: #FFFFFF;
+  border-color: rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.25);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#000000', endColorstr='#3a3a3a', GradientType=0);
+  filter: progid:DXImageTransform.Microsoft.gradient(enabled=false);
+}
+
+.solved-challenge {
+  color: #37d63e;
+  background-color: #37d63e !important;
+  opacity: 0.4;
+  border-color: #37d63e;
+}
+
+.corner-button-check {
+  margin-top: -10px;
+  margin-right: 25px;
+  position: absolute;
+  right: 0;
+}
+
+.key-submit .btn {
+  height: 51px;
+}
