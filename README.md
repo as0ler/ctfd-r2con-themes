@@ -6,6 +6,10 @@
 - r2-termina: a CRT-like terminal theme
 ![](r2-terminal.png)
 
+- r2-witchcraft: doom-like terminal theme
+![](r2-witchcraft-1.png)
+![](r2-witchcraft-2.png)
+
 
 # Development
 
